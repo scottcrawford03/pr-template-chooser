@@ -1,0 +1,24 @@
+{
+  "name": "pr-template-chooser",
+  "version": "1.0.0",
+  "description": "this is a github action to choose a github template based on rules you set",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottcrawford03/pr-template-chooser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottcrawford03/pr-template-chooser/issues"
+  },
+  "homepage": "https://github.com/scottcrawford03/pr-template-chooser#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.3",
+    "@actions/github": "^2.1.1"
+  }
+}
